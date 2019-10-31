@@ -1,19 +1,14 @@
-.col {
-	width: 200px;
-	height: 200px;
+.footer-head {
+	height: 40px;
+	background-color: #6d9eeb;
 }
-.one {
-	background-color:#801B14;      
+.main {
+	height: calc(100vh - 40px);
 }
-.two {
-	background-color: #F2E4A4;
+.col-3{
+	background-color: #0b5394;
 }
-.three {
-	background-color: #A19D77;
-}
-.four {
-	background-color: #2A2B24;
-}
-.five {
-	background-color: #E0493F;
+.main-content{
+	height: calc(100vh - 80px);
+	background-color: #cfe2f3;
 }
