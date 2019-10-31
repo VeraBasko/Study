@@ -4,6 +4,7 @@
 }
 .main {
 	height: calc(100vh - 40px);
+	flex-direction: row-reverse;
 }
 .col-3{
 	background-color: #0b5394;
